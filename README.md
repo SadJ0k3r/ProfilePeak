@@ -32,9 +32,9 @@ If you have any questions or just want to say hello, feel free to [contact me](m
 
 ## Social Profiles
 
-- [LinkedIn](https://www.linkedin.com/in/)
-- [Indeed](https://my.indeed.com/)
-- [GitHub](https://github.com)
+- [LinkedIn](https://www.linkedin.com/in/arivera2098)
+- [Indeed](https://my.indeed.com//p/angelgr-2zg0zcs)
+- [GitHub](https://github.com/SadJ0k3r)
 
 ## License
 
