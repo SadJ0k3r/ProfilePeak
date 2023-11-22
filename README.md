@@ -7,7 +7,7 @@ Welcome to my ProfilePeak landing page! I'm Angel, a computer science graduate a
 
 ## Preview
 
-![ProfilePeak Preview]("screenshot.jpeg")
+![ProfilePeak Preview]("/screenshot.jpeg")
 
 ## Features
 
